@@ -15,4 +15,4 @@ This Python script automates the cleanup of AWS Backup Vault, allowing for effic
 3. Run the script to initiate cleanup.
 
 ```bash
-pytho3 sweeper.py
+python3 sweeper.py
